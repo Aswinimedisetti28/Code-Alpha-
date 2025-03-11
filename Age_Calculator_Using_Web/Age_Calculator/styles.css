@@ -2,7 +2,9 @@ body {
     margin: 0;
     padding: 20px;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #83a4d4, #b6fbff);
+    background: url('I.gif') no-repeat center center fixed; 
+    background-size: cover;
+    
     color: #333;
   }
   
