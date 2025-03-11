@@ -23,7 +23,7 @@ body {
 }
 
 .light {
-    background-image: linear-gradient(100deg, #d4f1ff, #ffffff);
+    background-image: linear-gradient(100deg, #ffd4d4, #a1121298);
     color: #1a150e;
     transition: 0.3s linear;
 }
@@ -82,7 +82,7 @@ body {
 }
 
 .light-theme {
-    background-image: linear-gradient(100deg, #d4f1ff, #ffffff);
+    background-image: linear-gradient(100deg, #ffd4d4, #a1121298);
 }
 
 .darker-theme {
